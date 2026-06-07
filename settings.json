@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ii7ele.aternos.me",
+    "port": 42666,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,16 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 100000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Who Am I?",
+        "There's someone Watching You",
+        "He's Listening",
+        "Hi I'm Your Friendly Server Bot, Dont Forget To Smile! That's what Makes you Special",
+        "I Can't anymore He's Taking Cont- ... ... ... .. What's this Bs You Should really kill Yourself If You're Too Shy I Can Do That For You, Isn't That What Friends Do?",
+        "I've Always Wanted To Live In A Normal Life",
+        "I'm Glad To See You Having Fun"
+        
       ]
     },
     "chat-log": true,
